@@ -1,0 +1,12 @@
+/* Css project */
+
+.mg-btn {
+    width: 100%;
+}
+
+.error {
+    color: red;
+    font-size: 90%;
+    font-style: italic;
+    font-weight: 500;
+}
